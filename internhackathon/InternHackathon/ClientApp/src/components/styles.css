@@ -1,0 +1,10 @@
+﻿body {
+    margin: 0;
+    height: 100%;
+    background-color: #EDF5D7;
+    background-image: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjRxr7fguDjAhV5wcQHHT2NBLMQjRx6BAgBEAU&url=https%3A%2F%2Fwww.xmple.com%2Fwallpaper%2Flinear-blue-green-gradient--c2-90ee90-00ced1-a-195-f-14-image%2F&psig=AOvVaw0FXUlLgHhpDbbBtHOHqJwn&ust=1564692168641374");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 100vh;
+}

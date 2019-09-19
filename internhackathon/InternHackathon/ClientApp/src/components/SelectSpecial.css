@@ -1,0 +1,21 @@
+﻿.special {
+    border-radius:15px;
+    margin: 10px;
+}
+
+.specials-list {
+    list-style: none;
+}
+
+.select-specials {
+    padding-top: 24px;
+}
+
+.list-item {
+}
+
+#specials-list-id {
+    background-color: white;
+    color: black;
+    border: 0;
+}
